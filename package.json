@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/alleson/qatw-primeira-edicao#readme",
   "devDependencies": {
-    "@playwright/test": "^1.50.1",
+    "@playwright/test": "^1.55.0",
     "@types/node": "^22.13.4"
   },
   "dependencies": {
