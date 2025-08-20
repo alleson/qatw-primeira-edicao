@@ -21,6 +21,8 @@
   },
   "dependencies": {
     "@prisma/client": "^6.4.0",
+    "allure-commandline": "^2.34.1",
+    "allure-playwright": "^3.3.3",
     "bullmq": "^5.56.4",
     "pg-promise": "^11.14.0",
     "prisma": "^6.4.0"
